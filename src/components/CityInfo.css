@@ -1,0 +1,10 @@
+.info {
+    color: black;
+    font-size: 20px;
+}
+
+.info h2 {
+    text-align: start;
+    padding-bottom: 10px;
+    border-bottom: 4px solid rgb(164, 69, 252);
+}

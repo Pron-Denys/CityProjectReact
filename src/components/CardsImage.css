@@ -1,0 +1,11 @@
+.cardImage {
+    margin-top: 20px;
+    color: black;
+    font-size: 30px;
+}
+
+.cardImage h2 {
+    text-align: start;
+    padding-bottom: 10px;
+    border-bottom: 4px solid rgb(164, 69, 252);
+}
